@@ -26,3 +26,6 @@
       ```sh
       pip install selenium
       ```
+
+6. **Edit lines 14-18**
+    - The program requires some information where the Chrome installation file is, as well as what your Twitch username is.

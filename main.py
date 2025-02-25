@@ -5,12 +5,6 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-# Install a code editor
-# Download Chrome version 133.0.6943.126
-# set up twitch on Chrome
-# pip install python or python on the MS Store
-# pip install selenium
-
 options = webdriver.ChromeOptions()
 # options.add_experimental_option('excludeSwitches', ['enable-logging'])
 options.add_argument("--log-level=3")
