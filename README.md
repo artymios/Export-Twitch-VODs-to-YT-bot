@@ -15,7 +15,7 @@
 
 4. **Set Up Twitch on Chrome**
     - Open Chrome and log in to your Twitch account.
-    - Ensure you can access the Video Producer on your channel page.
+    - Make sure your YouTube account is connected to your Twitch account and you have the "Export" option available in the Video Producer.
     - Make sure Chrome is closed before running the script and that there are **NO TWITCH EXTENSIONS** enabled as that will cause the script not to work.
 
 5. **Install Python**
