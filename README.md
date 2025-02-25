@@ -33,3 +33,9 @@
 
 7. **Edit lines 14-18**
     - The program requires some information where the Chrome installation file is, as well as what your Twitch username is.
+  
+8. **Run the program**
+    - Enter the command below into the terminal and answer the questions with a y or an n. The script will use the same preferences if you run it again.
+      ```sh
+      python main.py
+      ```
