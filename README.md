@@ -1,3 +1,5 @@
+## A video explaining the process will be included soon
+
 ## Prerequisites
 
 1. **Install a Code Editor**
